@@ -5,6 +5,10 @@ money is displayed depending on the marathon category.
 
 The output is the winners from each category with their names and prize money.
 
+
+It takes input data of given number of participants(runners). The program prompts the user for Name, Time(in minutes) and
+Category of marathon for each participant. 
+
 The default prize money is as follows:
 
 1. Half Marathon (20 Km)-
